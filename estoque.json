@@ -1,0 +1,20 @@
+[
+  {
+    "id": 1,
+    "nome": "Camisa",
+    "categoria": "Roupa",
+    "quantidade": 9979,
+    "preco": 51.99,
+    "minimo": 1000,
+    "atualizado_em": "07/11/2026 10:32"
+  },
+  {
+    "id": 2,
+    "nome": "Caderno",
+    "categoria": "Papelaria",
+    "quantidade": 10,
+    "preco": 15.0,
+    "minimo": 5,
+    "atualizado_em": "07/11/2026 10:34"
+  }
+]
